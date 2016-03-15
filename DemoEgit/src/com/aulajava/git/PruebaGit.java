@@ -9,6 +9,6 @@ public class PruebaGit {
 			System.out.println("modific 2");
 			
 			
-			//Me la pelan si me salio :V
+			//Me la pelan ya me salio esta madre  :V
 		}
 }
